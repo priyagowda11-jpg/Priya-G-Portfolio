@@ -1,4 +1,4 @@
-# 🌌 Priya G — Personal Portfolio v2
+# 🌌 Priya G — Personal-Portfolio
 
 > **Futuristic Dark Portfolio** · React 18 · Framer Motion · Tailwind CSS · Vite
 
@@ -28,7 +28,7 @@ A high-end interactive portfolio with custom cursor, particle canvas, 3D paralla
 ## 📁 Structure
 
 ```
-priya-portfolio-v2/
+priya-portfolio/
 ├── public/assets/
 │   ├── profile/profile.jpg         ← 📸 ADD YOUR PHOTO HERE
 │   └── resume/Priya_G_Resume.pdf   ← 📄 ADD YOUR RESUME HERE
@@ -76,10 +76,8 @@ Open **http://localhost:5173** ✅
 1. Rename your photo to:   profile.jpg
 2. Drop it inside:         public/assets/profile/
 3. Restart server
-```
-Falls back to "PG" initials if photo is missing.
 
----
+```
 
 ## 📄 Add Your Resume
 
