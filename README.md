@@ -132,6 +132,6 @@ npm run preview   # Preview locally
 <div align="center">
 
 Built with ❤️ by **Priya G** · EEE Student · AI & IoT Developer  
-[Email](mailto:priyag11032005@gmail.com) · [LinkedIn](https://www.linkedin.com/in/priya-g-07422429a/) · [GitHub](https://github.com/priyagowda11-jpg/)
+[Email](mailto:priyag11032005@gmail.com) · [LinkedIn](https://www.linkedin.com/in/priya-g-07422429a/) · [GitHub](https://github.com/priyagowda11-jpg/) . [Portofolio](https://priya-gowda-portfolio.netlify.app/)
 
 </div>
