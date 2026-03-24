@@ -154,7 +154,7 @@ B.E. Electrical & Electronics Engineering | AI & IoT Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/priya-g-07422429a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/priyagowda11-jpg/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:priyag11032005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-black?style=for-the-badge)](https://priya-gowda-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-black?style=flat)](https://priya-gowda-portfolio.netlify.app)
 
 ---
 
